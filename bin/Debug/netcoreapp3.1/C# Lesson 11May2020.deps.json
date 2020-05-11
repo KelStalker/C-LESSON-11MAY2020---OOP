@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "C# Lesson 11May2020/1.0.0": {
+        "runtime": {
+          "C# Lesson 11May2020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# Lesson 11May2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
